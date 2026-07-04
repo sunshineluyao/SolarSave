@@ -28,10 +28,6 @@ The EIoT experiment suite covers:
 - FDIA attack taxonomy, adaptive verification, reward/liquidity ratio sweep,
   system-overhead measurement, and scale projection experiments.
 
----
-## **Demo Video**
-
-https://github.com/user-attachments/assets/958c321f-7562-49f2-bd08-97209db8f078
 
 ## **Key Features**
 
