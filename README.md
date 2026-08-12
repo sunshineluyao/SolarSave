@@ -1,12 +1,6 @@
 <div align="center">
   <img src="client/images/kali.png" alt="SolarChain logo" width="150" />
 
-  <p>
-    <img src="client/images/solarchain-thumbnail.jpg" alt="SolarChain urban solar verification thumbnail" width="260" />
-    &nbsp;&nbsp;
-    <img src="client/images/solarchain-system-overview.png" alt="SolarChain system architecture overview" width="260" />
-  </p>
-
   <h1>☀️ SolarChain</h1>
 
   <p><strong>Physics-grounded embodied IoT for verifiable urban solar markets</strong></p>
@@ -52,6 +46,12 @@
 > **SolarSave** for continuity with the original project.
 
 ## Overview
+  <p>
+    <img src="client/images/solarchain-thumbnail.jpg" alt="SolarChain urban solar verification thumbnail" width="260" />
+    &nbsp;&nbsp;
+    <img src="client/images/solarchain-system-overview.png" alt="SolarChain system architecture overview" width="260" />
+  </p>
+
 
 SolarChain is an open-source research prototype for urban distributed-energy
 verification and market coordination. It connects a physics-bounded solar
