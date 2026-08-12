@@ -46,12 +46,6 @@
 > **SolarSave** for continuity with the original project.
 
 ## Overview
-  <p>
-    <img src="client/images/solarchain-thumbnail.jpg" alt="SolarChain urban solar verification thumbnail" width="260" />
-    &nbsp;&nbsp;
-    <img src="client/images/solarchain-system-overview.png" alt="SolarChain system architecture overview" width="260" />
-  </p>
-
 
 SolarChain is an open-source research prototype for urban distributed-energy
 verification and market coordination. It connects a physics-bounded solar
@@ -62,6 +56,12 @@ The machine calculates a defensible generation boundary. The planner decides
 whether a candidate distributed energy resource (DER) should proceed. Approved
 records are signed by a wallet and registered on-chain; rejected or anomalous
 records remain visible in the audit trail.
+  <p>
+    <img src="client/images/solarchain-thumbnail.jpg" alt="SolarChain urban solar verification thumbnail" width="260" />
+    &nbsp;&nbsp;
+    <img src="client/images/solarchain-system-overview.png" alt="SolarChain system architecture overview" width="260" />
+  </p>
+
 
 | ☀️ **50 PV agents** | 🕒 **720 hourly steps** | 📊 **36,000 records** | 🛡️ **11 attack scenarios** |
 |:---:|:---:|:---:|:---:|
