@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="client/images/kali.png" alt="SolarChain solar panel" width="180" />
+  <img src="client/images/solarchain-thumbnail.jpg" alt="SolarChain urban solar verification thumbnail" width="260" />
 
   <h1>☀️ SolarChain</h1>
 
