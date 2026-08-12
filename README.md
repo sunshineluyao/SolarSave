@@ -56,12 +56,6 @@ The machine calculates a defensible generation boundary. The planner decides
 whether a candidate distributed energy resource (DER) should proceed. Approved
 records are signed by a wallet and registered on-chain; rejected or anomalous
 records remain visible in the audit trail.
-  <p>
-    <img src="client/images/solarchain-thumbnail.jpg" alt="SolarChain urban solar verification thumbnail" width="260" />
-    &nbsp;&nbsp;
-    <img src="client/images/solarchain-system-overview.png" alt="SolarChain system architecture overview" width="260" />
-  </p>
-
 
 | ☀️ **50 PV agents** | 🕒 **720 hourly steps** | 📊 **36,000 records** | 🛡️ **11 attack scenarios** |
 |:---:|:---:|:---:|:---:|
@@ -390,6 +384,12 @@ For questions or proposals, [open a GitHub issue](https://github.com/sunshineluy
 
 SolarChain is released under the [MIT License](LICENSE).
 
+
 <div align="center">
   <sub>Built for inspectable solar-energy coordination, from physical evidence to verifiable settlement.</sub>
+    <p>
+    <img src="client/images/solarchain-thumbnail.jpg" alt="SolarChain urban solar verification thumbnail" width="260" />
+    &nbsp;&nbsp;
+    <img src="client/images/solarchain-system-overview.png" alt="SolarChain system architecture overview" width="260" />
+  </p>
 </div>
