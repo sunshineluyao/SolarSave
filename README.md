@@ -386,10 +386,11 @@ SolarChain is released under the [MIT License](LICENSE).
 
 
 <div align="center">
-  <sub>Built for inspectable solar-energy coordination, from physical evidence to verifiable settlement.</sub>
-    <p>
+  <p>
     <img src="client/images/solarchain-thumbnail.jpg" alt="SolarChain urban solar verification thumbnail" width="260" />
     &nbsp;&nbsp;
     <img src="client/images/solarchain-system-overview.png" alt="SolarChain system architecture overview" width="260" />
   </p>
+  <sub>Built for inspectable solar-energy coordination, from physical evidence to verifiable settlement.</sub>
+    
 </div>
