@@ -4,7 +4,7 @@
   <p>
     <img src="client/images/solarchain-thumbnail.jpg" alt="SolarChain urban solar verification thumbnail" width="260" />
     &nbsp;&nbsp;
-    <img src="client/images/solarchain-thumbnail-2.jpg" alt="SolarChain blockchain-backed solar market thumbnail" width="260" />
+    <img src="client/images/solarchain-system-overview.png" alt="SolarChain system architecture overview" width="260" />
   </p>
 
   <h1>☀️ SolarChain</h1>
