@@ -8,6 +8,22 @@ SolarChain is designed as an interactive decision-support tool for urban planner
 
 Project naming note: the product name is **SolarChain**, while the repository/folder name remains `SolarSave`.
 
+## **Camera-Ready Release**
+
+This repository is the final artifact release for:
+
+> **SolarChain: A Physics-Grounded Embodied IoT System for Verifiable Urban Solar Market Design**  
+> UbiComp Companion '26, Shanghai, China.
+
+- Camera-ready paper record and checksum: [`docs/camera_ready_release.md`](docs/camera_ready_release.md)
+- Evaluation artifact map: [`docs/eiot_evaluation_artifacts.md`](docs/eiot_evaluation_artifacts.md)
+
+The released benchmark uses the April 2026 monthly dataset with 50 simulated PV
+nodes, 36,000 hourly records, 1,800 original FDIA labels, 11 scripted attack
+classes, configurable reward/liquidity allocation, and hash-linked audit traces.
+The default market split is 20/80 producer reward/liquidity, implemented as
+`rewardRatioBps = 2000` in `EnergyExchange.sol`.
+
 ## **EIoT Research Positioning**
 
 For EIoT-style evaluation, SolarChain is framed as **SolarAgents**: a
